@@ -1,0 +1,76 @@
+Project_ID,Project_Type,Planned_Duration_Days,Planned_Cost_INR_Cr,Terrain_Factor,Regulatory_Approval_Days,Historical_Delay_Reason,Weather_Impact_Score,Vendor_Performance_Rating,Material_Availability_Issue,Demand_Supply_Scenario,Manpower_Availability_Score,Actual_Duration_Days,Actual_Cost_INR_Cr,Time_Overrun_Days,Cost_Overrun_INR_Cr
+PROJ001,Substation,365,50.0,Plain,90,None,1,Excellent,False,Balanced,5,365,50.0,0,0.0
+PROJ002,Overhead Line,730,120.0,Hilly,210,Environmental Clearance,5,Poor,True,High Demand,2,922,145.0,192,25.0
+PROJ003,Underground Cable,365,80.0,Forest,120,Weather,3,Average,False,Balanced,3,391,81.0,26,1.0
+PROJ004,Substation,450,65.0,Plain,60,None,1,Excellent,False,Low Demand,5,450,65.0,0,0.0
+PROJ005,Overhead Line,730,150.0,Desert,150,Supply Chain,4,Average,True,High Demand,3,867,165.5,137,15.5
+PROJ006,Substation,540,75.0,Hilly,180,Land Acquisition,2,Good,False,Balanced,4,585,78.0,45,3.0
+PROJ007,Underground Cable,270,95.0,Plain,100,None,1,Excellent,False,Low Demand,5,270,95.0,0,0.0
+PROJ008,Overhead Line,600,110.0,Forest,200,Manpower Shortage,3,Good,False,High Demand,2,650,118.0,50,8.0
+PROJ009,Substation,365,60.0,Plain,110,Vendor Issues,2,Poor,True,High Demand,3,410,68.0,45,8.0
+PROJ010,Overhead Line,730,135.0,Desert,250,Environmental Clearance,4,Average,False,Balanced,3,790,142.5,60,7.5
+PROJ011,Substation,500,85.0,Hilly,160,Land Acquisition,3,Good,True,High Demand,2,580,92.0,80,7.0
+PROJ012,Underground Cable,400,105.0,Plain,80,None,1,Excellent,False,Low Demand,5,400,105.0,0,0.0
+PROJ013,Overhead Line,650,160.0,Forest,190,Weather,4,Poor,False,Balanced,3,720,168.0,70,8.0
+PROJ014,Substation,300,45.0,Plain,70,None,1,Excellent,False,Low Demand,5,300,45.0,0,0.0
+PROJ015,Overhead Line,800,180.0,Desert,220,Supply Chain,5,Poor,True,High Demand,2,950,205.0,150,25.0
+PROJ016,Substation,420,70.0,Hilly,150,Land Acquisition,3,Good,False,Balanced,4,475,73.5,55,3.5
+PROJ017,Underground Cable,330,90.0,Plain,95,None,1,Excellent,False,Balanced,5,330,90.0,0,0.0
+PROJ018,Overhead Line,700,140.0,Forest,210,Manpower Shortage,3,Good,False,High Demand,3,780,152.0,80,12.0
+PROJ019,Substation,480,80.0,Plain,130,Vendor Issues,2,Poor,True,High Demand,2,540,88.0,60,8.0
+PROJ020,Overhead Line,600,125.0,Desert,180,Environmental Clearance,4,Average,False,Balanced,3,660,132.5,60,7.5
+PROJ021,Substation,550,90.0,Hilly,170,Land Acquisition,3,Good,True,High Demand,2,620,98.0,70,8.0
+PROJ022,Underground Cable,300,75.0,Plain,85,None,1,Excellent,False,Low Demand,5,300,75.0,0,0.0
+PROJ023,Overhead Line,750,170.0,Forest,200,Weather,4,Poor,False,Balanced,3,830,178.5,80,8.5
+PROJ024,Substation,390,62.0,Plain,105,None,1,Excellent,False,Low Demand,5,390,62.0,0,0.0
+PROJ025,Overhead Line,850,190.0,Desert,230,Supply Chain,5,Poor,True,High Demand,2,1020,220.0,170,30.0
+PROJ026,Substation,440,72.0,Hilly,165,Land Acquisition,3,Good,False,Balanced,4,490,75.5,50,3.5
+PROJ027,Underground Cable,350,88.0,Plain,98,None,1,Excellent,False,Balanced,5,350,88.0,0,0.0
+PROJ028,Overhead Line,680,130.0,Forest,205,Manpower Shortage,3,Good,False,High Demand,3,745,141.0,65,11.0
+PROJ029,Substation,470,78.0,Plain,125,Vendor Issues,2,Poor,True,High Demand,2,525,86.0,55,8.0
+PROJ030,Overhead Line,620,115.0,Desert,195,Environmental Clearance,4,Average,False,Balanced,3,690,122.5,70,7.5
+PROJ031,Substation,510,87.0,Hilly,175,Land Acquisition,3,Good,True,High Demand,2,575,94.0,65,7.0
+PROJ032,Underground Cable,310,70.0,Plain,82,None,1,Excellent,False,Low Demand,5,310,70.0,0,0.0
+PROJ033,Overhead Line,770,165.0,Forest,215,Weather,4,Poor,False,Balanced,3,850,175.0,80,10.0
+PROJ034,Substation,400,68.0,Plain,100,None,1,Excellent,False,Low Demand,5,400,68.0,0,0.0
+PROJ035,Overhead Line,880,195.0,Desert,240,Supply Chain,5,Poor,True,High Demand,2,1060,230.0,180,35.0
+PROJ036,Substation,460,74.0,Hilly,160,Land Acquisition,3,Good,False,Balanced,4,510,77.5,50,3.5
+PROJ037,Underground Cable,320,85.0,Plain,92,None,1,Excellent,False,Balanced,5,320,85.0,0,0.0
+PROJ038,Overhead Line,660,128.0,Forest,200,Manpower Shortage,3,Good,False,High Demand,3,725,138.0,65,10.0
+PROJ039,Substation,490,82.0,Plain,120,Vendor Issues,2,Poor,True,High Demand,2,545,89.0,55,7.0
+PROJ040,Overhead Line,640,120.0,Desert,185,Environmental Clearance,4,Average,False,Balanced,3,710,128.5,70,8.5
+PROJ041,Substation,520,89.0,Hilly,180,Land Acquisition,3,Good,True,High Demand,2,580,95.5,60,6.5
+PROJ042,Underground Cable,340,73.0,Plain,88,None,1,Excellent,False,Low Demand,5,340,73.0,0,0.0
+PROJ043,Overhead Line,790,175.0,Forest,220,Weather,4,Poor,False,Balanced,3,875,185.0,85,10.0
+PROJ044,Substation,410,66.0,Plain,110,None,1,Excellent,False,Low Demand,5,410,66.0,0,0.0
+PROJ045,Overhead Line,900,200.0,Desert,250,Supply Chain,5,Poor,True,High Demand,2,1090,240.0,190,40.0
+PROJ046,Substation,455,75.0,Hilly,168,Land Acquisition,3,Good,False,Balanced,4,505,79.0,50,4.0
+PROJ047,Underground Cable,335,86.0,Plain,95,None,1,Excellent,False,Balanced,5,335,86.0,0,0.0
+PROJ048,Overhead Line,675,135.0,Forest,210,Manpower Shortage,3,Good,False,High Demand,3,745,145.0,70,10.0
+PROJ049,Substation,485,80.0,Plain,128,Vendor Issues,2,Poor,True,High Demand,2,540,88.0,55,8.0
+PROJ050,Overhead Line,630,118.0,Desert,190,Environmental Clearance,4,Average,False,Balanced,3,700,125.0,70,7.0
+PROJ051,Substation,530,92.0,Hilly,185,Land Acquisition,3,Good,True,High Demand,2,595,99.0,65,7.0
+PROJ052,Underground Cable,350,78.0,Plain,92,None,1,Excellent,False,Low Demand,5,350,78.0,0,0.0
+PROJ053,Overhead Line,810,180.0,Forest,225,Weather,4,Poor,False,Balanced,3,895,190.0,85,10.0
+PROJ054,Substation,420,69.0,Plain,115,None,1,Excellent,False,Low Demand,5,420,69.0,0,0.0
+PROJ055,Overhead Line,920,205.0,Desert,260,Supply Chain,5,Poor,True,High Demand,2,1120,245.0,200,40.0
+PROJ056,Substation,470,78.0,Hilly,175,Land Acquisition,3,Good,False,Balanced,4,520,81.5,50,3.5
+PROJ057,Underground Cable,345,89.0,Plain,100,None,1,Excellent,False,Balanced,5,345,89.0,0,0.0
+PROJ058,Overhead Line,690,140.0,Forest,215,Manpower Shortage,3,Good,False,High Demand,3,760,150.0,70,10.0
+PROJ059,Substation,495,84.0,Plain,130,Vendor Issues,2,Poor,True,High Demand,2,550,92.0,55,8.0
+PROJ060,Overhead Line,650,125.0,Desert,195,Environmental Clearance,4,Average,False,Balanced,3,720,132.5,70,7.5
+PROJ061,Substation,540,95.0,Hilly,190,Land Acquisition,3,Good,True,High Demand,2,605,102.0,65,7.0
+PROJ062,Underground Cable,360,82.0,Plain,95,None,1,Excellent,False,Low Demand,5,360,82.0,0,0.0
+PROJ063,Overhead Line,830,185.0,Forest,230,Weather,4,Poor,False,Balanced,3,915,195.0,85,10.0
+PROJ064,Substation,430,71.0,Plain,120,None,1,Excellent,False,Low Demand,5,430,71.0,0,0.0
+PROJ065,Overhead Line,950,210.0,Desert,270,Supply Chain,5,Poor,True,High Demand,2,1150,255.0,200,45.0
+PROJ066,Substation,480,80.0,Hilly,170,Land Acquisition,3,Good,False,Balanced,4,530,83.5,50,3.5
+PROJ067,Underground Cable,355,90.0,Plain,102,None,1,Excellent,False,Balanced,5,355,90.0,0,0.0
+PROJ068,Overhead Line,700,145.0,Forest,220,Manpower Shortage,3,Good,False,High Demand,3,770,155.0,70,10.0
+PROJ069,Substation,505,86.0,Plain,135,Vendor Issues,2,Poor,True,High Demand,2,560,94.0,55,8.0
+PROJ070,Overhead Line,660,130.0,Desert,200,Environmental Clearance,4,Average,False,Balanced,3,730,138.5,70,8.5
+PROJ071,Substation,550,98.0,Hilly,195,Land Acquisition,3,Good,True,High Demand,2,615,105.0,65,7.0
+PROJ072,Underground Cable,370,84.0,Plain,98,None,1,Excellent,False,Low Demand,5,370,84.0,0,0.0
+PROJ073,Overhead Line,850,190.0,Forest,235,Weather,4,Poor,False,Balanced,3,935,200.0,85,10.0
+PROJ074,Substation,440,73.0,Plain,125,None,1,Excellent,False,Low Demand,5,440,73.0,0,0.0
+PROJ075,Overhead Line,970,215.0,Desert,280,Supply Chain,5,Poor,True,High Demand,2,1170,260.0,200,45.0
